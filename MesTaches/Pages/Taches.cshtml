@@ -1,0 +1,24 @@
+﻿@page
+@model MesTaches.Pages.TachesModel
+
+<h1>Liste des Tâches</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Titre</th>
+            <th>Terminée</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tache in Model.Taches)
+        {
+            <tr>
+                <td>@tache.Id</td>
+                <td>@tache.Titre</td>
+                <td>@(tache.Terminer ? "✅" : "❌")</td>
+            </tr>
+        }
+    </tbody>
+</table>

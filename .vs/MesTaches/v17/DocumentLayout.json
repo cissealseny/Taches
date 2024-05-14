@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|c:\\users\\acerpro\\source\\repos\\mestaches\\mestaches\\pages\\taches.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|solutionrelative:mestaches\\pages\\taches.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|c:\\users\\acerpro\\source\\repos\\mestaches\\mestaches\\pages\\taches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|solutionrelative:mestaches\\pages\\taches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|c:\\users\\acerpro\\source\\repos\\mestaches\\mestaches\\data\\tachecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|solutionrelative:mestaches\\data\\tachecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|c:\\users\\acerpro\\source\\repos\\mestaches\\mestaches\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F70E21-3450-4729-BF8F-39A325A555C1}|MesTaches\\MesTaches.csproj|solutionrelative:mestaches\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taches.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Pages\\Taches.cshtml.cs",
+              "RelativeDocumentMoniker": "MesTaches\\Pages\\Taches.cshtml.cs",
+              "ToolTip": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Pages\\Taches.cshtml.cs",
+              "RelativeToolTip": "MesTaches\\Pages\\Taches.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:21:31.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taches.cshtml",
+              "DocumentMoniker": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Pages\\Taches.cshtml",
+              "RelativeDocumentMoniker": "MesTaches\\Pages\\Taches.cshtml",
+              "ToolTip": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Pages\\Taches.cshtml",
+              "RelativeToolTip": "MesTaches\\Pages\\Taches.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T02:20:40.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TacheContext.cs",
+              "DocumentMoniker": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Data\\TacheContext.cs",
+              "RelativeDocumentMoniker": "MesTaches\\Data\\TacheContext.cs",
+              "ToolTip": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Data\\TacheContext.cs",
+              "RelativeToolTip": "MesTaches\\Data\\TacheContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:11:28.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tache.cs",
+              "DocumentMoniker": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Tache.cs",
+              "RelativeDocumentMoniker": "MesTaches\\Tache.cs",
+              "ToolTip": "C:\\Users\\AcerPro\\source\\repos\\MesTaches\\MesTaches\\Tache.cs",
+              "RelativeToolTip": "MesTaches\\Tache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:09:00.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
